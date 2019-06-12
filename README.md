@@ -3,12 +3,11 @@
 
 ## Iteration 8 du jeu Java_Warriors
 
-NetBeans :
-* File > Open Project > NetBean
-* Run Project (F6)
-* Une page s'ouvre avec le message : ``En route !!!``
+* Open maven file (pom.xml)
+* Run Project > mvn install
+* Ouvrir un navigateur : http://localhost:8080/Donjons-it8/ : Une page s'ouvre avec le message : ``En route !!!``
 * Accés a la route :
-  * [GET / POST](http://localhost:8080/Netbean/api/game)
+  * [GET / POST](http://localhost:8080/Donjons-it8/api/game)
   * GET : lecture du fichier qui contient tout les éléments de la partie (Map / Héro / statut de la partie) via un fichier .json
   * POST : permet de lancer la partie et redonne les éléments du jeu au WebService
   * Pour le POST :
