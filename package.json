@@ -1,0 +1,19 @@
+{
+  "name": "warriorweb",
+  "version": "1.0.0",
+  "description": "D&D",
+  "main": "Idea/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le-campus-numerique_BACKUP/Java_WarriorsWeb_codeDeBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le-campus-numerique_BACK/Java_WarriorsWeb_codeDeBase/issues"
+  },
+  "homepage": "https://github.com/le-campus-numerique_BACK/Java_WarriorsWeb_codeDeBase#readme"
+}
